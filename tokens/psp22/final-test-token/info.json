@@ -1,0 +1,23 @@
+{
+  "name": "Final Test Token",
+  "symbol": "TST",
+  "type": "PSP22",
+  "decimals": 10,
+  "description": "final test",
+  "sourceCode": "https://example.com",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://example.com"
+    },
+    {
+      "name": "X",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://example.com"
+    }
+  ]
+}
