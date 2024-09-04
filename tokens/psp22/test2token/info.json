@@ -1,0 +1,9 @@
+{
+  "name": "Test2Token",
+  "symbol": "TST2",
+  "type": "PSP22",
+  "decimals": 20,
+  "description": "test",
+  "sourceCode": "https://example.com",
+  "links": []
+}
