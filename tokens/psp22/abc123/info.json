@@ -1,0 +1,10 @@
+{
+  "name": "ABC123",
+  "symbol": "abc",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "dsadsadasdasdasdasdas",
+  "sourceCode": "https://staging-ascan-xyz.vercel.app/verify-token",
+  "website": "https://staging-ascan-xyz.vercel.app/verify-token",
+  "links": []
+}
