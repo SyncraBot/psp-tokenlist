@@ -1,0 +1,15 @@
+{
+  "name": "big test 123",
+  "symbol": "big",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "fesfesfefesfsefesfsef",
+  "sourceCode": "https://github.com/",
+  "website": "https://github.com/",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://github.com/"
+    }
+  ]
+}
