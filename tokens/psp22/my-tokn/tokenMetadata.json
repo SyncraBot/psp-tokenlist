@@ -1,0 +1,30 @@
+{
+  "id": 12345,
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "age": 30,
+  "isActive": true,
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    }
+  },
+  "addresses": [
+    {
+      "type": "home",
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    },
+    {
+      "type": "work",
+      "street": "456 Office Rd",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94105"
+    }
+  ]
+}
