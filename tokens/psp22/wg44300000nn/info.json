@@ -1,0 +1,19 @@
+{
+  "name": "wg44300000nn",
+  "symbol": "423",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "poe09n90ng09esng09esnfg09esn",
+  "sourceCode": "https://github.com/syncradao/app.syncra.xyz/",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://example.com"
+    },
+    {
+      "name": "X",
+      "url": "https://example.com"
+    }
+  ]
+}
