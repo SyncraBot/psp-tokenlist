@@ -1,0 +1,23 @@
+{
+  "name": "savava",
+  "symbol": "vvv",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "bwrwgw4g4ge4tye4ty4e",
+  "sourceCode": "https://github.com/syncradao/app.syncra.xyz/",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "http://fse.com"
+    },
+    {
+      "name": "X",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "http://fse.com"
+    }
+  ]
+}
