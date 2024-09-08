@@ -1,0 +1,23 @@
+{
+  "name": "One and Only Properly Token",
+  "symbol": "TST",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "fomfe0fms09ef09senf09senf\nfoisenf0snefonseoinfse",
+  "sourceCode": "https://github.com/syncradao/app.syncra.xyz/",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://example.com"
+    },
+    {
+      "name": "X",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://example.com"
+    }
+  ]
+}
