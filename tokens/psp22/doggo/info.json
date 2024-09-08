@@ -1,0 +1,23 @@
+{
+  "name": "doggo",
+  "symbol": "DOG",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "dumb token bro iks de lol",
+  "sourceCode": "https://github.com/SyncraDAO/ascan.xyz",
+  "website": "https://dumb.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/zZWrrZadrz"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/przemek"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/lol"
+    }
+  ]
+}
