@@ -1,0 +1,24 @@
+{
+  "name": "BIG test",
+  "symbol": "big",
+  "contractAddress": "13nN6BGAoJwd7Nw1XxeBCx5YcBXuYnL94Mh7i3xBprqVSsFk",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "ieaifeiofbesoiufbsoiuebfosebfoesbfoiuesbfoew",
+  "sourceCode": "https://github.com/syncradao/app.syncra.xyz/",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "X/Twitter",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Discord",
+      "url": "https://example.com"
+    }
+  ]
+}
